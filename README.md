@@ -1,4 +1,4 @@
-# Terminal-commands for calling attack
+# Terminal-commands for calling attack through termux application in androif phone
 pkg install git
 pkg install python
 pkg install openssl
